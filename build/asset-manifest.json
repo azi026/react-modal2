@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad448721.css",
+    "main.js": "/static/js/main.3287b9a3.js",
+    "static/media/trianglify-lowres.png": "/static/media/trianglify-lowres.e186a5caaf35b6438095.png",
+    "index.html": "/index.html",
+    "main.ad448721.css.map": "/static/css/main.ad448721.css.map",
+    "main.3287b9a3.js.map": "/static/js/main.3287b9a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad448721.css",
+    "static/js/main.3287b9a3.js"
+  ]
+}
